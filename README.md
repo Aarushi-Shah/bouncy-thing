@@ -1,2 +1,2 @@
-# bouncy-thing
-just 2 bouncy things
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
